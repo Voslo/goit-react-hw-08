@@ -7,3 +7,6 @@ ul{
   flex-direction: column;
   width: 250px;
 }
+a {
+  text-decoration: none;
+}
